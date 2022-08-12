@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 - 心理与疗愈/0889 - 不在乎 - 如何才能做到不在乎？.md",
+            "file": "个人学习吸收/如何解决思维混乱，讲话没有条理.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "580af544ee46e824",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "个人学习吸收/如何解决思维混乱，讲话没有条理.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#情绪管理",
+                "query": "条理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - 心理与疗愈/0889 - 不在乎 - 如何才能做到不在乎？.md",
+                "file": "个人学习吸收/如何解决思维混乱，讲话没有条理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +110,17 @@
     "direction": "horizontal",
     "width": 215.1999969482422
   },
-  "active": "0413d4a1a32b5613",
+  "active": "580af544ee46e824",
   "lastOpenFiles": [
     "个人学习吸收/如何才能做到不在乎.md",
+    "个人学习吸收/如何解决思维混乱，讲话没有条理.md",
+    "01 - 个人成长/1） - 君子立心/0612 - 条理 - 如何解决思维混乱、讲话没条理的情况？.md",
+    "个人学习吸收/网站.md",
     "03 - 心理与疗愈/0889 - 不在乎 - 如何才能做到不在乎？.md",
     "00 - 序言/0720 - 你有哪些话想对知乎上关注你的人说？.md",
     "❀ Instruction - 食用指南 ❀.md",
     "10 - 科学与技术/？？？？ - 2019 年 8 月 9-11 日召开的华为开发者大会（HDC.2019）上有哪些值得关注的信息？.md",
     "13 - 宗教与信仰/？？？？ - 怎么证明上帝是不存在的？.md",
-    "06 - 性别解放/？？？？ - 为什么部分中国男人越来越阴柔化了？.md",
-    "13 - 宗教与信仰/？？？？ - 天使是基督教的内容么？.md",
-    "04 - 事业发展/？？？？ - 如何看待修女特蕾莎以及她所经营的仁爱之家的争议？.md",
-    "13 - 宗教与信仰/？？？？ - 如何看待美国阿拉巴马州通过法案，禁止几乎所有堕胎情形，包括强奸和乱伦怀孕也不允许堕胎？.md"
+    "06 - 性别解放/？？？？ - 为什么部分中国男人越来越阴柔化了？.md"
   ]
 }
