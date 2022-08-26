@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1a04f9129126ed1c",
+        "id": "7577992d24d863a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "更新热力图.md",
-            "mode": "preview",
+            "file": "22-灵修与读经/2022-08-23.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "更新热力图.md",
+                "file": "22-灵修与读经/2022-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "更新热力图.md"
+                "file": "22-灵修与读经/2022-08-23.md"
               }
             }
           },
@@ -110,14 +110,15 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 378.5
   },
-  "active": "1a04f9129126ed1c",
+  "active": "7577992d24d863a8",
   "lastOpenFiles": [
+    "更新热力图.md",
     "22-灵修与读经/2022-08-23.md",
     "22-灵修与读经/2022-08-01.md",
     "22-灵修与读经/2022-08-02.md",
@@ -126,7 +127,6 @@
     "22-灵修与读经/2022-08-05.md",
     "22-灵修与读经/2022-08-06.md",
     "22-灵修与读经/2022-08-07.md",
-    "22-灵修与读经/2022-08-08.md",
-    "22-灵修与读经/2022-08-09.md"
+    "22-灵修与读经/2022-08-08.md"
   ]
 }
