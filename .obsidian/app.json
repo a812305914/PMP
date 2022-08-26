@@ -3,5 +3,7 @@
   "promptDelete": false,
   "defaultViewMode": "source",
   "communityPluginSortOrder": "downloadReverse",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "newLinkFormat": "relative"
 }

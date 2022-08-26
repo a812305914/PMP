@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7577992d24d863a8",
+        "id": "1fbc5b2cdab0305b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "22-灵修与读经/2022-08-23.md",
+            "file": "22-灵修与读经/2022-08-26.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -53,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 300
   },
   "right": {
     "id": "c1d15211549f5edf",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-08-23.md",
+                "file": "22-灵修与读经/2022-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-灵修与读经/2022-08-23.md"
+                "file": "22-灵修与读经/2022-08-26.md"
               }
             }
           },
@@ -114,20 +115,19 @@
       }
     ],
     "direction": "horizontal",
-
-    "width": 187.5
+    "width": 378.5
   },
-  "active": "83a12922c0716e44",
+  "active": "1fbc5b2cdab0305b",
   "lastOpenFiles": [
-    "11 - 社科与历史/4） - 军事学/0145 - 军舰对潜艇 - 军舰斗不过潜艇吗？.md",
-    "03 - 心理与疗愈/1164 - 怎样为痛苦的妈妈提供支持？.md",
     "23-资料汇总/Obsidian 插件.md",
     "22-灵修与读经/2022-08-26.md",
-    "22-灵修与读经/2022-08-25.md",
-    "22-灵修与读经/2022-08-24.md",
-    "更新热力图.md",
     "22-灵修与读经/2022-08-23.md",
+    "更新热力图.md",
     "22-灵修与读经/2022-08-01.md",
-    "22-灵修与读经/2022-08-02.md"
+    "22-灵修与读经/2022-08-02.md",
+    "22-灵修与读经/2022-08-03.md",
+    "22-灵修与读经/2022-08-04.md",
+    "22-灵修与读经/2022-08-05.md",
+    "22-灵修与读经/2022-08-06.md"
   ]
 }
