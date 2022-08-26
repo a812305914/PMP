@@ -25,3 +25,6 @@
 
 ### recall
 Obsidian复习插件，同上面介绍的Spaced Repetition Plugin一样，不依赖于ANKI即可在Obsidian中直接使用。
+
+### copy-block-link
+可以将当前块的链接复制到粘贴板，然后你就可以去到你想要粘贴的地方进行粘贴了。

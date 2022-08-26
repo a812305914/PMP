@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "22-灵修与读经/2022-08-26.md",
+            "file": "20-服侍/对于离开的同工.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-08-26.md",
+                "file": "20-服侍/对于离开的同工.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-灵修与读经/2022-08-26.md"
+                "file": "20-服侍/对于离开的同工.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "1fbc5b2cdab0305b",
   "lastOpenFiles": [
+    "20-服侍/邀请成为学生同工流程.md",
+    "20-服侍/2022-8-21 思考.md",
     "23-资料汇总/Obsidian 插件.md",
     "22-灵修与读经/2022-08-26.md",
     "22-灵修与读经/2022-08-23.md",
@@ -126,8 +128,6 @@
     "22-灵修与读经/2022-08-01.md",
     "22-灵修与读经/2022-08-02.md",
     "22-灵修与读经/2022-08-03.md",
-    "22-灵修与读经/2022-08-04.md",
-    "22-灵修与读经/2022-08-05.md",
-    "22-灵修与读经/2022-08-06.md"
+    "22-灵修与读经/2022-08-04.md"
   ]
 }
