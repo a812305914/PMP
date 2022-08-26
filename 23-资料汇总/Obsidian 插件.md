@@ -22,3 +22,6 @@
 
 ### cMenu
 方便你编辑内容的浮动小工具，它针对笔记内容为了提供了加粗、斜体、删除线、下划线、上标、下标、代码、代码块、引用等功能
+
+### recall
+Obsidian复习插件，同上面介绍的Spaced Repetition Plugin一样，不依赖于ANKI即可在Obsidian中直接使用。
