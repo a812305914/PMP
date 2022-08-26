@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-服侍/对于离开的同工.md",
+            "file": "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#沟通",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-服侍/对于离开的同工.md",
+                "file": "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-服侍/对于离开的同工.md"
+                "file": "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md"
               }
             }
           },
@@ -119,15 +120,15 @@
   },
   "active": "1fbc5b2cdab0305b",
   "lastOpenFiles": [
+    "01 - 个人成长/1） - 君子立心/0612 - 条理 - 如何解决思维混乱、讲话没条理的情况？.md",
+    "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
+    "21-个人学习吸收/网站.md",
+    "21-个人学习吸收/如何才能做到不在乎.md",
+    "03 - 心理与疗愈/0889 - 不在乎 - 如何才能做到不在乎？.md",
+    "21-个人学习吸收/反思.md",
     "20-服侍/邀请成为学生同工流程.md",
+    "20-服侍/对于离开的同工.md",
     "20-服侍/2022-8-21 思考.md",
-    "23-资料汇总/Obsidian 插件.md",
-    "22-灵修与读经/2022-08-26.md",
-    "22-灵修与读经/2022-08-23.md",
-    "更新热力图.md",
-    "22-灵修与读经/2022-08-01.md",
-    "22-灵修与读经/2022-08-02.md",
-    "22-灵修与读经/2022-08-03.md",
-    "22-灵修与读经/2022-08-04.md"
+    "22-灵修与读经/2022-08-26.md"
   ]
 }
