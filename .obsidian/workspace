@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1fbc5b2cdab0305b",
+        "id": "38cdf6ad0d2bbbd3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "22-灵修与读经/2022-08-28.md",
+            "file": "22-灵修与读经/2022-08-29.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-08-28.md",
+                "file": "22-灵修与读经/2022-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-灵修与读经/2022-08-28.md"
+                "file": "22-灵修与读经/2022-08-29.md"
               }
             }
           },
@@ -117,8 +117,9 @@
     "direction": "horizontal",
     "width": 378.5
   },
-  "active": "1fbc5b2cdab0305b",
+  "active": "38cdf6ad0d2bbbd3",
   "lastOpenFiles": [
+    "22-灵修与读经/2022-08-28.md",
     "20-服侍/小组读经群心得.md",
     "22-灵修与读经/2022-08-24.md",
     "22-灵修与读经/2022-08-25.md",
@@ -127,7 +128,6 @@
     "21-个人学习吸收/如何才能做到不在乎.md",
     "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
     "01 - 个人成长/1） - 君子立心/0612 - 条理 - 如何解决思维混乱、讲话没条理的情况？.md",
-    "21-个人学习吸收/网站.md",
-    "03 - 心理与疗愈/0889 - 不在乎 - 如何才能做到不在乎？.md"
+    "21-个人学习吸收/网站.md"
   ]
 }
