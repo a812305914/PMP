@@ -7,13 +7,8 @@
         "id": "38cdf6ad0d2bbbd3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "22-灵修与读经/2022-08-29.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "22-灵修与读经/2022-08-29.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,8 +109,9 @@
     "direction": "horizontal",
     "width": 378.5
   },
-  "active": "38cdf6ad0d2bbbd3",
+  "active": "55637f72e2948856",
   "lastOpenFiles": [
+    "22-灵修与读经/2022-08-29.md",
     "22-灵修与读经/2022-08-28.md",
     "20-服侍/小组读经群心得.md",
     "22-灵修与读经/2022-08-24.md",
@@ -127,7 +120,6 @@
     "20-服侍/2022-8-21 思考.md",
     "21-个人学习吸收/如何才能做到不在乎.md",
     "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
-    "01 - 个人成长/1） - 君子立心/0612 - 条理 - 如何解决思维混乱、讲话没条理的情况？.md",
-    "21-个人学习吸收/网站.md"
+    "01 - 个人成长/1） - 君子立心/0612 - 条理 - 如何解决思维混乱、讲话没条理的情况？.md"
   ]
 }
