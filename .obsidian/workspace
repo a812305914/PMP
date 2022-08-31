@@ -7,8 +7,13 @@
         "id": "38cdf6ad0d2bbbd3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "22-灵修与读经/2022-09-01.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "22-灵修与读经/2022-09-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "22-灵修与读经/2022-09-01.md"
+              }
             }
           },
           {
@@ -109,7 +117,7 @@
     "direction": "horizontal",
     "width": 378.5
   },
-  "active": "55637f72e2948856",
+  "active": "38cdf6ad0d2bbbd3",
   "lastOpenFiles": [
     "22-灵修与读经/2022-08-29.md",
     "22-灵修与读经/2022-08-28.md",
