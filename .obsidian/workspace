@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "24-想法记录/单身营会活动.md",
+            "file": "25-复盘反思/随想.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-想法记录/单身营会活动.md",
+                "file": "25-复盘反思/随想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-想法记录/单身营会活动.md"
+                "file": "25-复盘反思/随想.md"
               }
             }
           },
@@ -119,6 +119,8 @@
   },
   "active": "38cdf6ad0d2bbbd3",
   "lastOpenFiles": [
+    "21-个人学习吸收/反思.md",
+    "24-想法记录/单身营会活动.md",
     "22-灵修与读经/2022-08-31.md",
     "22-灵修与读经/2022-09-01.md",
     "22-灵修与读经/2022-08-29.md",
@@ -126,8 +128,6 @@
     "20-服侍/小组读经群心得.md",
     "22-灵修与读经/2022-08-24.md",
     "22-灵修与读经/2022-08-25.md",
-    "20-服侍/邀请成为学生同工流程.md",
-    "20-服侍/2022-8-21 思考.md",
-    "21-个人学习吸收/如何才能做到不在乎.md"
+    "20-服侍/邀请成为学生同工流程.md"
   ]
 }
