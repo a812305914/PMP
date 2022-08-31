@@ -4,19 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "73911899e7d1f8cc",
+        "id": "38cdf6ad0d2bbbd3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "22-灵修与读经/2022-09-01.md",
+            "file": "24-想法记录/单身营会活动.md",
             "mode": "source",
             "backlinks": true,
-=======
-            "file": "22-灵修与读经/2022-08-31.md",
-            "mode": "source",
->>>>>>> origin/master
             "source": false
           }
         }
@@ -59,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 300
   },
   "right": {
     "id": "c1d15211549f5edf",
@@ -75,11 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "22-灵修与读经/2022-09-01.md",
-=======
-                "file": "22-灵修与读经/2022-08-31.md",
->>>>>>> origin/master
+                "file": "24-想法记录/单身营会活动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,11 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "22-灵修与读经/2022-09-01.md"
-=======
-                "file": "22-灵修与读经/2022-08-31.md"
->>>>>>> origin/master
+                "file": "24-想法记录/单身营会活动.md"
               }
             }
           },
@@ -128,23 +115,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5
+    "width": 378.5
   },
-<<<<<<< HEAD
   "active": "38cdf6ad0d2bbbd3",
-=======
-  "active": "73911899e7d1f8cc",
->>>>>>> origin/master
   "lastOpenFiles": [
-    "22-灵修与读经/2022-08-30.md",
-    "22-灵修与读经/2022-08-28.md",
-    "conflict-files-obsidian-git.md",
+    "22-灵修与读经/2022-08-31.md",
+    "22-灵修与读经/2022-09-01.md",
     "22-灵修与读经/2022-08-29.md",
-    "23-资料汇总/Obsidian 插件.md",
-    "11 - 社科与历史/4） - 军事学/0145 - 军舰对潜艇 - 军舰斗不过潜艇吗？.md",
-    "03 - 心理与疗愈/1164 - 怎样为痛苦的妈妈提供支持？.md",
-    "22-灵修与读经/2022-08-26.md",
+    "22-灵修与读经/2022-08-28.md",
+    "20-服侍/小组读经群心得.md",
+    "22-灵修与读经/2022-08-24.md",
     "22-灵修与读经/2022-08-25.md",
-    "22-灵修与读经/2022-08-24.md"
+    "20-服侍/邀请成为学生同工流程.md",
+    "20-服侍/2022-8-21 思考.md",
+    "21-个人学习吸收/如何才能做到不在乎.md"
   ]
 }
