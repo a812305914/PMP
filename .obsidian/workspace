@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "社会化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +117,7 @@
     "direction": "horizontal",
     "width": 589.5
   },
-  "active": "93c5dd9d9ef30d7b",
+  "active": "be443373af8ba7cc",
   "lastOpenFiles": [
     "22-灵修与读经/2022-09-02.md",
     "22-灵修与读经/2022-09-01.md",
