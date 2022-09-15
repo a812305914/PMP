@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "473d606cdf6cdd88",
+    "type": "split",
+    "children": [
+      {
+        "id": "93c5dd9d9ef30d7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "05 - 企业管理/？？ - 程序员，有需求做需求，有 bug 改 bug，哪些方面会让程序员生气呢？.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b24962c33e8fd1e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "294b3ef49ba2ce4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55637f72e2948856",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be443373af8ba7cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "信任",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "c1d15211549f5edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "74dd350e443f5c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daa8005754f73612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 - 企业管理/？？ - 程序员，有需求做需求，有 bug 改 bug，哪些方面会让程序员生气呢？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0945e8a164a5bacf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df071e629e3719cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - 企业管理/？？ - 程序员，有需求做需求，有 bug 改 bug，哪些方面会让程序员生气呢？.md"
+              }
+            }
+          },
+          {
+            "id": "2b5667ee88590626",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 589.5
+  },
+  "active": "be443373af8ba7cc",
+  "lastOpenFiles": [
+    "22-灵修与读经/2022-09-15.md",
+    "22-灵修与读经/2022-09-09.md",
+    "22-灵修与读经/2022-09-08.md",
+    "20-服侍/小组读经群心得.md",
+    "22-灵修与读经/2022-08-24.md",
+    "22-灵修与读经/2022-09-07.md",
+    "07 - 亲密关系与爱/1） - 爱之旅途/1195 - 拿号去 - 如何摆脱异性多看我一眼就觉得别人喜欢我的变态自恋心理？.md",
+    "04 - 事业发展/3） - 团队合作与职场/1094 - 有困难就说 - 领导说有困难可以跟他说，是什么意思？.md",
+    "01 - 个人成长/1） - 君子立心/0976 - 讨好型人格 - 如何改变讨好型人格？.md",
+    "11 - 社科与历史/1） - 法学/⑵ - 社会现象与政策/？？ - 为什么在一些知乎问题下，基督徒和圣经受到了一定程度的反感？.md"
+  ]
+}
