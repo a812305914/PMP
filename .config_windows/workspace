@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "信任",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5
+    "width": 589.5,
+    "collapsed": true
   },
   "active": "93c5dd9d9ef30d7b",
   "lastOpenFiles": [
