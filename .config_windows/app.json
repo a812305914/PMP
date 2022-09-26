@@ -1,0 +1,15 @@
+{
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "communityPluginSortOrder": "downloadReverse",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

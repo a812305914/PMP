@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "473d606cdf6cdd88",
+    "type": "split",
+    "children": [
+      {
+        "id": "93c5dd9d9ef30d7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "22-灵修与读经/2022-09-23.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b24962c33e8fd1e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "294b3ef49ba2ce4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55637f72e2948856",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be443373af8ba7cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "c1d15211549f5edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "74dd350e443f5c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daa8005754f73612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "22-灵修与读经/2022-09-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0945e8a164a5bacf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df071e629e3719cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "22-灵修与读经/2022-09-23.md"
+              }
+            }
+          },
+          {
+            "id": "2b5667ee88590626",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 589.5,
+    "collapsed": true
+  },
+  "active": "93c5dd9d9ef30d7b",
+  "lastOpenFiles": [
+    "22-灵修与读经/2022-09-22.md",
+    "22-灵修与读经/2022-09-20.md",
+    "22-灵修与读经/2022-09-19.md",
+    "08 - 家庭与教育/1） - 子女教育/0228 - 宁信外人 - 为什么很多家长，宁愿信外人，也不信自己的孩子？.md",
+    "08 - 家庭与教育/1） - 子女教育/0177 - 恶之花 - 我妹妹画这种画怎么办？.md",
+    "05 - 企业管理/？？ - 程序员，有需求做需求，有 bug 改 bug，哪些方面会让程序员生气呢？.md",
+    "22-灵修与读经/2022-09-15.md",
+    "22-灵修与读经/2022-09-09.md",
+    "22-灵修与读经/2022-09-08.md",
+    "20-服侍/小组读经群心得.md"
+  ]
+}

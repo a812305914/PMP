@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path: 01-个人成长",
+      "color": {
+        "a": 1,
+        "rgb": 13073116
+      }
+    },
+    {
+      "query": "path: 02-哲学与伦理",
+      "color": {
+        "a": 1,
+        "rgb": 11841703
+      }
+    },
+    {
+      "query": "path: 03-心理与人性",
+      "color": {
+        "a": 1,
+        "rgb": 10927987
+      }
+    },
+    {
+      "query": "path: 04-事业发展",
+      "color": {
+        "a": 1,
+        "rgb": 5675991
+      }
+    },
+    {
+      "query": "path: 05-企业管理",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path: 06-亲密关系与爱",
+      "color": {
+        "a": 1,
+        "rgb": 16224939
+      }
+    },
+    {
+      "query": "path: 07-家庭与教育",
+      "color": {
+        "a": 1,
+        "rgb": 15251018
+      }
+    },
+    {
+      "query": "path: 08-女性进步",
+      "color": {
+        "a": 1,
+        "rgb": 15605792
+      }
+    },
+    {
+      "query": "path: 09-生活智慧",
+      "color": {
+        "a": 1,
+        "rgb": 16707472
+      }
+    },
+    {
+      "query": "path: 10-科学与技术",
+      "color": {
+        "a": 1,
+        "rgb": 10409190
+      }
+    },
+    {
+      "query": "path: 11-社科与历史",
+      "color": {
+        "a": 1,
+        "rgb": 12090905
+      }
+    },
+    {
+      "query": "path: 12-文化与艺术",
+      "color": {
+        "a": 1,
+        "rgb": 16762867
+      }
+    },
+    {
+      "query": "path: 13-宗教与信仰",
+      "color": {
+        "a": 1,
+        "rgb": 12778230
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.27268599173600844,
+  "close": false
+}
