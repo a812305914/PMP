@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-服侍/小组读经群心得.md",
-            "mode": "preview",
+            "file": "01 - 个人成长/3） - 人生管理/0336 - 思而行 - 如何完成经由逻辑思维产生的决策？.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "如何完成经由逻辑思维产生的决策?",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-服侍/小组读经群心得.md",
+                "file": "01 - 个人成长/3） - 人生管理/0336 - 思而行 - 如何完成经由逻辑思维产生的决策？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-服侍/小组读经群心得.md"
+                "file": "01 - 个人成长/3） - 人生管理/0336 - 思而行 - 如何完成经由逻辑思维产生的决策？.md"
               }
             }
           },
@@ -119,15 +120,15 @@
   },
   "active": "93c5dd9d9ef30d7b",
   "lastOpenFiles": [
-    "22-灵修与读经/2022-08-24.md",
+    "22-灵修与读经/2022-09-29.md",
+    "22-灵修与读经/2022-09-28.md",
     "20-服侍/小组读经群心得.md",
+    "22-灵修与读经/2022-08-24.md",
     "25-复盘反思/随想.md",
     "24-想法记录/单身营会活动.md",
     "22-灵修与读经/2022-09-27.md",
     "22-灵修与读经/2022-09-23.md",
     "22-灵修与读经/2022-09-22.md",
-    "22-灵修与读经/2022-09-20.md",
-    "22-灵修与读经/2022-09-19.md",
-    "08 - 家庭与教育/1） - 子女教育/0228 - 宁信外人 - 为什么很多家长，宁愿信外人，也不信自己的孩子？.md"
+    "22-灵修与读经/2022-09-20.md"
   ]
 }
