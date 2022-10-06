@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "项目章程",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -109,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.27268599173600844,
-  "close": false
+  "scale": 1.1376907563193694,
+  "close": true
 }
