@@ -1,6 +1,7 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 24,
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Sanctum"
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "新宋体"
 }
