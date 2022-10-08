@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "93c5dd9d9ef30d7b",
+        "id": "197382caf3d1776f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 - 个人成长/3） - 人生管理/0336 - 思而行 - 如何完成经由逻辑思维产生的决策？.md",
+            "file": "22-灵修与读经/2022-10-08.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "如何完成经由逻辑思维产生的决策?",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - 个人成长/3） - 人生管理/0336 - 思而行 - 如何完成经由逻辑思维产生的决策？.md",
+                "file": "22-灵修与读经/2022-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - 个人成长/3） - 人生管理/0336 - 思而行 - 如何完成经由逻辑思维产生的决策？.md"
+                "file": "22-灵修与读经/2022-10-08.md"
               }
             }
           },
@@ -118,8 +117,9 @@
     "width": 589.5,
     "collapsed": true
   },
-  "active": "93c5dd9d9ef30d7b",
+  "active": "55637f72e2948856",
   "lastOpenFiles": [
+    "01 - 个人成长/3） - 人生管理/0336 - 思而行 - 如何完成经由逻辑思维产生的决策？.md",
     "22-灵修与读经/2022-09-29.md",
     "22-灵修与读经/2022-09-28.md",
     "20-服侍/小组读经群心得.md",
@@ -128,7 +128,6 @@
     "24-想法记录/单身营会活动.md",
     "22-灵修与读经/2022-09-27.md",
     "22-灵修与读经/2022-09-23.md",
-    "22-灵修与读经/2022-09-22.md",
-    "22-灵修与读经/2022-09-20.md"
+    "22-灵修与读经/2022-09-22.md"
   ]
 }
