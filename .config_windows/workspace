@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "22-灵修与读经/2022-10-10.md",
+            "file": "22-灵修与读经/2022-10-11.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-10-10.md",
+                "file": "22-灵修与读经/2022-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-灵修与读经/2022-10-10.md"
+                "file": "22-灵修与读经/2022-10-11.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "523518139428e585",
   "lastOpenFiles": [
+    "22-灵修与读经/2022-10-10.md",
     "31-PMP学习/项目进度管理/定义活动.md",
     "31-PMP学习/项目进度管理/进度管理计划.md",
     "31-PMP学习/项目范围管理/项目管理过程.md",
@@ -127,7 +128,6 @@
     "31-PMP学习/项目进度管理/估算活动持续时间.md",
     "变更请求.md",
     "标杆对照.md",
-    "持续时间估算.md",
-    "产品生命周期.md"
+    "持续时间估算.md"
   ]
 }
