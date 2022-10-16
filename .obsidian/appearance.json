@@ -4,5 +4,5 @@
   "translucency": false,
   "cssTheme": "Minimal",
   "accentColor": "",
-  "showViewHeader": false
+  "showViewHeader": true
 }
