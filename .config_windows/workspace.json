@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "473d606cdf6cdd88",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce5ed2a25713be8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "523518139428e585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22-灵修与读经/2022-10-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad7d28e5112561b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22-灵修与读经/2022-10-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b24962c33e8fd1e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "294b3ef49ba2ce4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55637f72e2948856",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be443373af8ba7cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "c1d15211549f5edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "74dd350e443f5c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daa8005754f73612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "22-灵修与读经/2022-10-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0945e8a164a5bacf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df071e629e3719cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "22-灵修与读经/2022-10-17.md"
+              }
+            }
+          },
+          {
+            "id": "2b5667ee88590626",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 589.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6ad7d28e5112561b",
+  "lastOpenFiles": [
+    "31-PMP学习/项目质量管理/测试.md",
+    "31-PMP学习/项目资源管理/项目资源管理过程组.md",
+    "31-PMP学习/项目资源管理/规划资源管理.md",
+    "22-灵修与读经/2022-08-24.md",
+    "20-服侍/小组读经群心得.md",
+    "22-灵修与读经/2022-10-12.md",
+    "31-PMP学习/项目进度管理/规划进度管理.md",
+    "31-PMP学习/项目进度管理/进度管理计划.md",
+    "适应型生命周期.md",
+    "范围管理计划.md"
+  ]
+}
