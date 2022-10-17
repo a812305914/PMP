@@ -34,51 +34,25 @@
             }
           },
           {
-            "id": "45721abc06095a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/敏捷开发/四种项目周期.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8895d65ddb4d176c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/敏捷开发/敏捷宣言.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58c64e4d0b0b787b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/敏捷开发/敏捷12原则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f33ecd4d41649732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31-PMP学习/敏捷开发/精益开发原则-消除浪费.md",
+                "file": "31-PMP学习/敏捷开发/精益开发原则-优化整体.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2122131eb16677fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31-PMP学习/敏捷开发/敏捷基础方法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31-PMP学习/敏捷开发/精益开发原则-消除浪费.md",
+                "file": "31-PMP学习/敏捷开发/敏捷基础方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "31-PMP学习/敏捷开发/精益开发原则-消除浪费.md"
+                "file": "31-PMP学习/敏捷开发/敏捷基础方法.md"
               }
             }
           },
@@ -195,17 +169,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f33ecd4d41649732",
+  "active": "2122131eb16677fa",
   "lastOpenFiles": [
+    "31-PMP学习/敏捷开发/精益开发原则-优化整体.md",
     "31-PMP学习/敏捷开发/精益开发7原则.md",
+    "31-PMP学习/敏捷开发/精益开发原则-尊重成员，赋能团队.md",
+    "20-服侍/邀请成为学生同工流程.md",
+    "31-PMP学习/敏捷开发/精益开发原则-尽快交付.md",
+    "31-PMP学习/敏捷开发/精益开发原则-延迟决策.md",
+    "31-PMP学习/敏捷开发/精益开发原则-创建知识和增强学习.md",
+    "31-PMP学习/敏捷开发/精益开发原则-内建质量.md",
     "31-PMP学习/敏捷开发/精益开发原则-消除浪费.md",
-    "31-PMP学习/敏捷开发/敏捷12原则.md",
-    "31-PMP学习/敏捷开发/敏捷宣言.md",
-    "31-PMP学习/敏捷开发/四种项目周期.md",
-    "22-灵修与读经/2022-10-17.md",
-    "31-PMP学习/项目质量管理/测试.md",
-    "31-PMP学习/项目资源管理/项目资源管理过程组.md",
-    "31-PMP学习/项目资源管理/规划资源管理.md",
-    "22-灵修与读经/2022-08-24.md"
+    "31-PMP学习/敏捷开发/敏捷12原则.md"
   ]
 }
