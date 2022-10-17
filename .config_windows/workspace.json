@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "f33ecd4d41649732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/敏捷开发/精益开发原则-优化整体.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2122131eb16677fa",
             "type": "leaf",
             "state": {
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
