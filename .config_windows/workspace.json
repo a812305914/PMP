@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人际关系",
+                "query": "tag:#眼中的光",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2122131eb16677fa",
+  "active": "be443373af8ba7cc",
   "lastOpenFiles": [
     "22-灵修与读经/2022-10-19.md",
     "31-PMP学习/敏捷开发/敏捷基础方法.md",
