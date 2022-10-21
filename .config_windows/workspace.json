@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22-灵修与读经/2022-10-19.md",
+                "file": "01 - 个人成长/0773 - 安全感 - 怎么培养安全感？.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "人际关系",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-10-19.md",
+                "file": "01 - 个人成长/0773 - 安全感 - 怎么培养安全感？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-灵修与读经/2022-10-19.md"
+                "file": "01 - 个人成长/0773 - 安全感 - 怎么培养安全感？.md"
               }
             }
           },
@@ -158,6 +159,7 @@
   },
   "active": "2122131eb16677fa",
   "lastOpenFiles": [
+    "22-灵修与读经/2022-10-19.md",
     "31-PMP学习/敏捷开发/敏捷基础方法.md",
     "31-PMP学习/敏捷开发/精益开发原则-优化整体.md",
     "31-PMP学习/敏捷开发/精益开发7原则.md",
@@ -166,7 +168,6 @@
     "31-PMP学习/敏捷开发/精益开发原则-尽快交付.md",
     "31-PMP学习/敏捷开发/精益开发原则-延迟决策.md",
     "31-PMP学习/敏捷开发/精益开发原则-创建知识和增强学习.md",
-    "31-PMP学习/敏捷开发/精益开发原则-内建质量.md",
-    "31-PMP学习/敏捷开发/精益开发原则-消除浪费.md"
+    "31-PMP学习/敏捷开发/精益开发原则-内建质量.md"
   ]
 }
