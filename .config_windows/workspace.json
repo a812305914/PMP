@@ -58,9 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f432f4d96567cc68",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,10 +176,7 @@
     "width": 589.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "50c96b4342e4da97",
+  "active": "f432f4d96567cc68",
   "lastOpenFiles": [
     "22-灵修与读经/2022-10-14.md",
     "22-灵修与读经/2022-10-19.md",
