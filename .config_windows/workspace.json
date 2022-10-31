@@ -63,9 +63,12 @@
             "id": "f432f4d96567cc68",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "22-灵修与读经/2022-08-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-服侍/探访经验.md",
+                "file": "22-灵修与读经/2022-08-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-服侍/探访经验.md"
+                "file": "22-灵修与读经/2022-08-24.md"
               }
             }
           },
@@ -178,6 +181,7 @@
   },
   "active": "f432f4d96567cc68",
   "lastOpenFiles": [
+    "20-服侍/小组读经群心得.md",
     "22-灵修与读经/2022-10-14.md",
     "22-灵修与读经/2022-10-19.md",
     "31-PMP学习/敏捷开发/敏捷基础方法.md",
@@ -186,7 +190,6 @@
     "31-PMP学习/敏捷开发/精益开发原则-尊重成员，赋能团队.md",
     "20-服侍/邀请成为学生同工流程.md",
     "31-PMP学习/敏捷开发/精益开发原则-尽快交付.md",
-    "31-PMP学习/敏捷开发/精益开发原则-延迟决策.md",
-    "31-PMP学习/敏捷开发/精益开发原则-创建知识和增强学习.md"
+    "31-PMP学习/敏捷开发/精益开发原则-延迟决策.md"
   ]
 }
