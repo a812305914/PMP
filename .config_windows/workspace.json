@@ -71,9 +71,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a6e9aa0bb2f98bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "32-编程/JAVA/事务.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ed33433e9742da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "32-编程/JAVA/实践/Spring 事务.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -102,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "项目经理",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,12 +137,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "right": {
     "id": "c1d15211549f5edf",
@@ -132,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-10-14.md",
+                "file": "32-编程/JAVA/实践/Spring 事务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-灵修与读经/2022-10-14.md"
+                "file": "32-编程/JAVA/实践/Spring 事务.md"
               }
             }
           },
@@ -180,8 +205,10 @@
     "width": 589.5,
     "collapsed": true
   },
-  "active": "be443373af8ba7cc",
+  "active": "56ed33433e9742da",
   "lastOpenFiles": [
+    "32-编程/JAVA/事务.md",
+    "22-灵修与读经/2022-10-14.md",
     "04 - 事业发展/1235 - 居安思危 - 公司更改经营范围，我是经办人。主管说要我模仿法人和股东签字。我不敢，怎么办？.md",
     "04 - 事业发展/1222 - 休息 - 脑力劳动者如何更好的休息？.md",
     "04 - 事业发展/1101 - 吃喝嫖赌 - 男人做生意是否必须陪人吃喝嫖赌才有生意可做？.md",
@@ -189,8 +216,6 @@
     "04 - 事业发展/1074 - 高管写代码 - 为什么国内 IT 公司 leader 以上就不怎么写代码，而据说 Google 的 Jeff Dean 还写代码？到底哪种情况好呢？.md",
     "04 - 事业发展/0880 - 底层 - 如何看待北京人社局副处长体验送外卖的一天，并表示「太委屈了，这个钱太不好挣了」？.md",
     "04 - 事业发展/0826 - 如何评价知乎女权大V @战斗力旺盛的伯爵 被平台永久禁言？.md",
-    "04 - 事业发展/0817 - 品牌 - 如何看待北京最后一家狗不理门店停业？当下老字号品牌发展面临哪些困局？应如何应对新挑战？.md",
-    "04 - 事业发展/0800 - 请问像我这种专攻下沉市场的宠物猫O2O项目有机会拿到种子轮资金么？.md",
-    "04 - 事业发展/0716 - 魄力 - 怎样成为一个有魄力的人？.md"
+    "04 - 事业发展/0817 - 品牌 - 如何看待北京最后一家狗不理门店停业？当下老字号品牌发展面临哪些困局？应如何应对新挑战？.md"
   ]
 }
