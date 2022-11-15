@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "523518139428e585",
+            "id": "56ed33433e9742da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22-灵修与读经/2022-10-14.md",
+                "file": "20-服侍/关心同工的经验.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6ad7d28e5112561b",
+            "id": "7aa98d57c9603275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22-灵修与读经/2022-10-17.md",
+                "file": "20-服侍/小组读经群心得.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,46 +34,19 @@
             }
           },
           {
-            "id": "2122131eb16677fa",
+            "id": "e2bfe7c80d3f8f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - 个人成长/0773 - 安全感 - 怎么培养安全感？.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50c96b4342e4da97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20-服侍/探访经验.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f432f4d96567cc68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - 企业管理/0979 - OKR工具的作用是否被夸大？.md",
+                "file": "22-灵修与读经/2022-08-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#眼中的光",
+                "query": "项目审计",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "right": {
     "id": "c1d15211549f5edf",
@@ -131,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - 企业管理/0979 - OKR工具的作用是否被夸大？.md",
+                "file": "20-服侍/关心同工的经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - 企业管理/0979 - OKR工具的作用是否被夸大？.md"
+                "file": "20-服侍/关心同工的经验.md"
               }
             }
           },
@@ -179,17 +152,17 @@
     "width": 589.5,
     "collapsed": true
   },
-  "active": "f432f4d96567cc68",
+  "active": "56ed33433e9742da",
   "lastOpenFiles": [
-    "05 - 企业管理/0605 - 员工辞职需要为现公司考虑吗？.md",
-    "05 - 企业管理/0575 - 培养下属 - 如何培养出得力的下属？.md",
-    "05 - 企业管理/0542 - 下属不满 - 管理者发现下属对自己不满，该如何沟通？.md",
-    "05 - 企业管理/？？ - 为什么今日头条代理律师主张通讯录不属个人隐私，该主张有没有依据？.md",
-    "05 - 企业管理/？？ - 如果沟通无效你会采取哪些措施？.md",
-    "05 - 企业管理/？？ - 如果需要大规模的异地办公，对通信行业来说有哪些挑战？.md",
-    "05 - 企业管理/？？ - 马云最近到底怎么了？.md",
-    "05 - 企业管理/？？ - 管理101 - 作为一个管理者，遇到这样的员工该怎么办？.md",
-    "05 - 企业管理/？？ - 程序员，有需求做需求，有 bug 改 bug，哪些方面会让程序员生气呢？.md",
-    "22-灵修与读经/2022-08-24.md"
+    "22-灵修与读经/2022-08-24.md",
+    "20-服侍/小组读经群心得.md",
+    "20-服侍/探访经验.md",
+    "20-服侍/2022-8-21 思考.md",
+    "20-服侍/关心同工的经验.md",
+    "20-服侍/对于离开的同工.md",
+    "20-服侍/邀请成为学生同工流程.md",
+    "31-PMP学习/项目进度管理/进度管理计划.md",
+    "22-灵修与读经/2022-10-14.md",
+    "31-PMP学习/项目进度管理/定义活动.md"
   ]
 }
