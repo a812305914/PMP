@@ -13,6 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "20-服侍/关心同工的经验.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aa98d57c9603275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-服侍/小组读经群心得.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2bfe7c80d3f8f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "22-灵修与读经/2022-08-24.md",
                 "mode": "source",
                 "backlinks": true,
@@ -78,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-08-24.md",
+                "file": "20-服侍/关心同工的经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-灵修与读经/2022-08-24.md"
+                "file": "20-服侍/关心同工的经验.md"
               }
             }
           },
@@ -128,15 +154,15 @@
   },
   "active": "56ed33433e9742da",
   "lastOpenFiles": [
-    "20-服侍/小组读经群心得.md",
     "22-灵修与读经/2022-08-24.md",
+    "20-服侍/小组读经群心得.md",
+    "20-服侍/探访经验.md",
+    "20-服侍/2022-8-21 思考.md",
+    "20-服侍/关心同工的经验.md",
+    "20-服侍/对于离开的同工.md",
+    "20-服侍/邀请成为学生同工流程.md",
     "31-PMP学习/项目进度管理/进度管理计划.md",
     "22-灵修与读经/2022-10-14.md",
-    "31-PMP学习/项目进度管理/定义活动.md",
-    "32-编程/JAVA/实践/Spring 事务.md",
-    "32-编程/JAVA/事务.md",
-    "04 - 事业发展/1235 - 居安思危 - 公司更改经营范围，我是经办人。主管说要我模仿法人和股东签字。我不敢，怎么办？.md",
-    "04 - 事业发展/1222 - 休息 - 脑力劳动者如何更好的休息？.md",
-    "04 - 事业发展/1101 - 吃喝嫖赌 - 男人做生意是否必须陪人吃喝嫖赌才有生意可做？.md"
+    "31-PMP学习/项目进度管理/定义活动.md"
   ]
 }
