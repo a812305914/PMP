@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31-PMP学习/错题/模拟2/模拟2错题.md",
+                "file": "31-PMP学习/错题/敏捷.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb4a0f63b9c3c245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31-PMP学习/敏捷开发/精益开发原则-创建知识和增强学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31-PMP学习/错题/模拟2/模拟2错题.md",
+                "file": "31-PMP学习/错题/敏捷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "31-PMP学习/错题/模拟2/模拟2错题.md"
+                "file": "31-PMP学习/错题/敏捷.md"
               }
             }
           },
@@ -154,15 +167,15 @@
   },
   "active": "56ed33433e9742da",
   "lastOpenFiles": [
+    "31-PMP学习/错题/模拟2/模拟2错题.md",
+    "31-PMP学习/敏捷开发/精益开发原则-创建知识和增强学习.md",
+    "31-PMP学习/错题/敏捷.md",
     "31-PMP学习/项目进度管理/定义活动.md",
     "需求管理计划.md",
     "规划范围管理.md",
     "13 - 宗教与信仰/？？ - 为什么人做了坏事要去基督那祈祷，难道基督真会原谅坏人做的坏事吗？.md",
     "13 - 宗教与信仰/？？ - 什么是神学（Theology）？.md",
     "13 - 宗教与信仰/？？ - 上帝为什么不立即消除地球上所有人心中的恶和罪并且1秒钟内让地球就变成天堂？.md",
-    "13 - 宗教与信仰/？？ - 上帝说爱你的仇敌，为逼迫你的人祷告，面对战争和仇敌入侵怎么办？.md",
-    "13 - 宗教与信仰/？？ - 如何评价调查报告显示德国天主教神职人员 68 年内性侵 3677 名儿童？.md",
-    "13 - 宗教与信仰/？？ - 人是否有原罪，为什么？.md",
-    "13 - 宗教与信仰/？？ - 祈祷.md"
+    "13 - 宗教与信仰/？？ - 上帝说爱你的仇敌，为逼迫你的人祷告，面对战争和仇敌入侵怎么办？.md"
   ]
 }
