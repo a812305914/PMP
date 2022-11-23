@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "df9cd86ae2f0a0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31-PMP学习/错题/复习测试2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1aa26f26b29a02cf",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31-PMP学习/错题/敏捷.md",
+                "file": "31-PMP学习/错题/复习测试2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "31-PMP学习/错题/敏捷.md"
+                "file": "31-PMP学习/错题/复习测试2.md"
               }
             }
           },
@@ -192,13 +205,13 @@
     "width": 589.5,
     "collapsed": true
   },
-  "active": "0b089d636a28c089",
+  "active": "df9cd86ae2f0a0b7",
   "lastOpenFiles": [
+    "31-PMP学习/错题/敏捷.md",
     "31-PMP学习/错题/模拟一.md",
     "31-PMP学习/敏捷开发/敏捷重点.md",
     "31-PMP学习/敏捷开发/敏捷12原则.md",
     "31-PMP学习/敏捷开发/敏捷宣言.md",
-    "31-PMP学习/错题/敏捷.md",
     "31-PMP学习/敏捷开发/精益开发原则-内建质量.md",
     "31-PMP学习/敏捷开发/精益开发原则-创建知识和增强学习.md",
     "20-服侍/感恩节活动.md",
