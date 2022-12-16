@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "c446457628d300a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "33-做饭做菜/家常菜.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0b089d636a28c089",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31-PMP学习/章节/第3-4章.md",
+                "file": "33-做饭做菜/家常菜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "31-PMP学习/章节/第3-4章.md"
+                "file": "33-做饭做菜/家常菜.md"
               }
             }
           },
@@ -218,8 +231,9 @@
     "width": 589.5,
     "collapsed": true
   },
-  "active": "d58d2a686e58aaf9",
+  "active": "c446457628d300a1",
   "lastOpenFiles": [
+    "31-PMP学习/章节/第3-4章.md",
     "31-PMP学习/敏捷开发/敏捷重点.md",
     "20-服侍/小组读经群心得.md",
     "31-PMP学习/错题/模拟一.md",
@@ -228,7 +242,6 @@
     "31-PMP学习/错题/复习测试2.md",
     "31-PMP学习/敏捷开发/敏捷12原则.md",
     "31-PMP学习/敏捷开发/敏捷宣言.md",
-    "31-PMP学习/敏捷开发/精益开发原则-内建质量.md",
-    "20-服侍/感恩节活动.md"
+    "31-PMP学习/敏捷开发/精益开发原则-内建质量.md"
   ]
 }
