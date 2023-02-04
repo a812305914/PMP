@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "10bbef91802949a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "3eab548272357b23",
             "type": "leaf",
             "state": {
@@ -138,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,7 +254,18 @@
     "width": 589.5,
     "collapsed": true
   },
-  "active": "c446457628d300a1",
+  "left-ribbon": {
+    "hiddenItems": {
+      "privacy-glasses:Toggle Privacy Glasses": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "10bbef91802949a2",
   "lastOpenFiles": [
     "21-个人学习吸收/反思.md",
     "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
