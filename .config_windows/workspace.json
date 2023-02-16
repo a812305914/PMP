@@ -34,103 +34,12 @@
             }
           },
           {
-            "id": "3eab548272357b23",
+            "id": "90ec58ec42e3ba45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "33-做饭做菜/红烧肉.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eccc06eaa18eff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "33-做饭做菜/红烧肉.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b089d636a28c089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/错题/敏捷.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df9cd86ae2f0a0b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/错题/模拟一.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aa26f26b29a02cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/敏捷开发/敏捷重点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb4a0f63b9c3c245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/敏捷开发/精益开发原则-创建知识和增强学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aa98d57c9603275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20-服侍/小组读经群心得.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2bfe7c80d3f8f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22-灵修与读经/2022-08-24.md",
+                "file": "20-服侍/如何祷告.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
+                "file": "20-服侍/如何祷告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md"
+                "file": "20-服侍/如何祷告.md"
               }
             }
           },
@@ -244,10 +153,21 @@
     "width": 589.5,
     "collapsed": true
   },
-  "active": "c446457628d300a1",
+  "left-ribbon": {
+    "hiddenItems": {
+      "privacy-glasses:Toggle Privacy Glasses": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "90ec58ec42e3ba45",
   "lastOpenFiles": [
-    "21-个人学习吸收/反思.md",
     "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
+    "21-个人学习吸收/反思.md",
     "21-个人学习吸收/网站.md",
     "21-个人学习吸收/如何才能做到不在乎.md",
     "产品范围.md",
