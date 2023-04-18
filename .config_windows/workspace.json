@@ -39,15 +39,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-服侍/如何祷告.md",
+                "file": "需求管理计划.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0752b695aae77cb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-服侍/如何祷告.md",
+                "file": "需求管理计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-服侍/如何祷告.md"
+                "file": "需求管理计划.md"
               }
             }
           },
@@ -155,26 +165,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "privacy-glasses:Toggle Privacy Glasses": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "90ec58ec42e3ba45",
+  "active": "0752b695aae77cb0",
   "lastOpenFiles": [
+    "25-复盘反思/随想.md",
+    "20-服侍/小组读经群心得.md",
+    "20-服侍/如何祷告.md",
     "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
     "21-个人学习吸收/反思.md",
     "21-个人学习吸收/网站.md",
     "21-个人学习吸收/如何才能做到不在乎.md",
     "产品范围.md",
     "变更请求.md",
-    "24-想法记录/单身营会活动.md",
-    "25-复盘反思/随想.md",
-    "20-服侍/邀请成为学生同工流程.md",
-    "20-服侍/小组读经群心得.md"
+    "24-想法记录/单身营会活动.md"
   ]
 }
