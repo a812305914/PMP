@@ -21,8 +21,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "a144f34a28aa1f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "34-Axcure/实用技巧.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "34-Axcure/实用技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "34-Axcure/实用技巧.md"
               }
             }
           },
@@ -139,10 +153,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "55637f72e2948856",
+  "active": "a144f34a28aa1f8f",
   "lastOpenFiles": [
-    "04 - 事业发展/1） - 财富与认知/？？ - 财富观 - 如何树立正确的财富观.md",
     "未命名.canvas",
+    "34-Axcure/实用技巧.md",
+    "34-Axcure",
+    "04 - 事业发展/1） - 财富与认知/？？ - 财富观 - 如何树立正确的财富观.md",
     "01 - 个人成长/0712 - 原谅 - 你会选择原谅伤害过你的人吗？.md",
     "02 - 哲学与伦理/1） - 伦理学/？？ - 只凭藉“悔改的洗礼”就能罪得赦免吗？.md",
     "13 - 宗教与信仰/？？ - 上帝为什么不立即消除地球上所有人心中的恶和罪并且1秒钟内让地球就变成天堂？.md",
