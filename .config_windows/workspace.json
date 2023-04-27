@@ -8,59 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56ed33433e9742da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-PMP学习/敏捷开发/敏捷重点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c446457628d300a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ec58ec42e3ba45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "需求管理计划.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0752b695aae77cb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "04 - 事业发展/1） - 财富与认知/？？ - 财富观 - 如何树立正确的财富观.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "财富观",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - 事业发展/1） - 财富与认知/？？ - 财富观 - 如何树立正确的财富观.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - 事业发展/1） - 财富与认知/？？ - 财富观 - 如何树立正确的财富观.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -178,8 +139,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0752b695aae77cb0",
+  "active": "55637f72e2948856",
   "lastOpenFiles": [
+    "04 - 事业发展/1） - 财富与认知/？？ - 财富观 - 如何树立正确的财富观.md",
+    "未命名.canvas",
     "01 - 个人成长/0712 - 原谅 - 你会选择原谅伤害过你的人吗？.md",
     "02 - 哲学与伦理/1） - 伦理学/？？ - 只凭藉“悔改的洗礼”就能罪得赦免吗？.md",
     "13 - 宗教与信仰/？？ - 上帝为什么不立即消除地球上所有人心中的恶和罪并且1秒钟内让地球就变成天堂？.md",
