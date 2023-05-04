@@ -8,38 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56ed33433e9742da",
+            "id": "0752b695aae77cb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "31-PMP学习/敏捷开发/敏捷重点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
           {
-            "id": "c446457628d300a1",
+            "id": "a144f34a28aa1f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ec58ec42e3ba45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20-服侍/如何祷告.md",
+                "file": "34-Axcure/实用技巧.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 491.5
   },
   "right": {
     "id": "c1d15211549f5edf",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-服侍/如何祷告.md",
+                "file": "34-Axcure/实用技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-服侍/如何祷告.md"
+                "file": "34-Axcure/实用技巧.md"
               }
             }
           },
@@ -155,26 +144,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "privacy-glasses:Toggle Privacy Glasses": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "90ec58ec42e3ba45",
+  "active": "a144f34a28aa1f8f",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "34-Axcure/实用技巧.md",
+    "34-Axcure",
+    "04 - 事业发展/1） - 财富与认知/？？ - 财富观 - 如何树立正确的财富观.md",
+    "01 - 个人成长/0712 - 原谅 - 你会选择原谅伤害过你的人吗？.md",
+    "02 - 哲学与伦理/1） - 伦理学/？？ - 只凭藉“悔改的洗礼”就能罪得赦免吗？.md",
+    "13 - 宗教与信仰/？？ - 上帝为什么不立即消除地球上所有人心中的恶和罪并且1秒钟内让地球就变成天堂？.md",
+    "13 - 宗教与信仰/？？ - 祈祷.md",
+    "13 - 宗教与信仰/？？ - 如何评价调查报告显示德国天主教神职人员 68 年内性侵 3677 名儿童？.md",
+    "08 - 家庭与教育/1） - 子女教育/？？ - 从家长或未成年的孩子角度，你如何看待上海卢浦大桥「孩子受母亲批评后跳桥」这件事？.md",
+    "25-复盘反思/随想.md",
+    "20-服侍/小组读经群心得.md",
+    "20-服侍/如何祷告.md",
     "21-个人学习吸收/如何解决思维混乱，讲话没有条理.md",
     "21-个人学习吸收/反思.md",
     "21-个人学习吸收/网站.md",
     "21-个人学习吸收/如何才能做到不在乎.md",
     "产品范围.md",
     "变更请求.md",
-    "24-想法记录/单身营会活动.md",
-    "25-复盘反思/随想.md",
-    "20-服侍/邀请成为学生同工流程.md",
-    "20-服侍/小组读经群心得.md"
+    "24-想法记录/单身营会活动.md"
   ]
 }
