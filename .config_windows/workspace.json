@@ -34,9 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b0c917c855ffabe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,6 +82,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "d36667083f7c4ba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -153,7 +171,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a144f34a28aa1f8f",
+  "active": "4b0c917c855ffabe",
   "lastOpenFiles": [
     "未命名.canvas",
     "34-Axcure/实用技巧.md",
