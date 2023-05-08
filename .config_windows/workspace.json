@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b0c917c855ffabe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "35-教程/vpn教程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,6 +86,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d36667083f7c4ba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -94,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "34-Axcure/实用技巧.md",
+                "file": "35-教程/vpn教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "34-Axcure/实用技巧.md"
+                "file": "35-教程/vpn教程.md"
               }
             }
           },
@@ -153,8 +174,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a144f34a28aa1f8f",
+  "active": "4b0c917c855ffabe",
   "lastOpenFiles": [
+    "35-教程/vpn教程.md",
+    "35-教程",
     "未命名.canvas",
     "34-Axcure/实用技巧.md",
     "34-Axcure",
