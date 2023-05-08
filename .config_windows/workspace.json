@@ -39,9 +39,12 @@
             "id": "4b0c917c855ffabe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "35-教程/vpn教程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "34-Axcure/实用技巧.md",
+                "file": "35-教程/vpn教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "34-Axcure/实用技巧.md"
+                "file": "35-教程/vpn教程.md"
               }
             }
           },
@@ -173,6 +176,8 @@
   },
   "active": "4b0c917c855ffabe",
   "lastOpenFiles": [
+    "35-教程/vpn教程.md",
+    "35-教程",
     "未命名.canvas",
     "34-Axcure/实用技巧.md",
     "34-Axcure",
