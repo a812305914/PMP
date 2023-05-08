@@ -11,3 +11,10 @@
 ![](https://raw.githubusercontent.com/a812305914/PMP/main/img20230508135806.png)
 
 
+## PC
+
+### 设置订阅地址
+![](https://raw.githubusercontent.com/a812305914/PMP/main/img20230508141637.png)
+
+### 选择节点
+![Uploading file...lrpyq]()
