@@ -52,9 +52,12 @@
             "id": "759d4dccbd770eec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "01 - 个人成长/1） - 君子立心/0144 - 不可论断人 - 该如何对待习惯性论断（judge）他人的人？.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "论断",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25-复盘反思/随想.md",
+                "file": "01 - 个人成长/1） - 君子立心/0144 - 不可论断人 - 该如何对待习惯性论断（judge）他人的人？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25-复盘反思/随想.md"
+                "file": "01 - 个人成长/1） - 君子立心/0144 - 不可论断人 - 该如何对待习惯性论断（judge）他人的人？.md"
               }
             }
           },
