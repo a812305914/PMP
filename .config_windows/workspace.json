@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "759d4dccbd770eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - 事业发展/3） - 团队合作与职场/1315 - 贵人 - 怎么和贵人(大领导)相处？.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "贵人",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25-复盘反思/随想.md",
+                "file": "04 - 事业发展/3） - 团队合作与职场/1315 - 贵人 - 怎么和贵人(大领导)相处？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25-复盘反思/随想.md"
+                "file": "04 - 事业发展/3） - 团队合作与职场/1315 - 贵人 - 怎么和贵人(大领导)相处？.md"
               }
             }
           },
@@ -174,8 +188,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "55637f72e2948856",
+  "active": "759d4dccbd770eec",
   "lastOpenFiles": [
+    "01 - 个人成长/1） - 君子立心/0144 - 不可论断人 - 该如何对待习惯性论断（judge）他人的人？.md",
     "24-想法记录/单身营会活动.md",
     "33-做饭做菜/家常豆腐.md",
     "33-做饭做菜/家常菜.md",
@@ -203,7 +218,6 @@
     "34-Axcure/实用技巧.md",
     "34-Axcure",
     "04 - 事业发展/1） - 财富与认知/？？ - 财富观 - 如何树立正确的财富观.md",
-    "01 - 个人成长/0712 - 原谅 - 你会选择原谅伤害过你的人吗？.md",
-    "02 - 哲学与伦理/1） - 伦理学/？？ - 只凭藉“悔改的洗礼”就能罪得赦免吗？.md"
+    "01 - 个人成长/0712 - 原谅 - 你会选择原谅伤害过你的人吗？.md"
   ]
 }
