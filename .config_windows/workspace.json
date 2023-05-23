@@ -47,9 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "759d4dccbd770eec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "55637f72e2948856",
+  "active": "759d4dccbd770eec",
   "lastOpenFiles": [
     "24-想法记录/单身营会活动.md",
     "33-做饭做菜/家常豆腐.md",
