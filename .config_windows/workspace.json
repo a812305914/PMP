@@ -70,9 +70,19 @@
                 "currentVersion": "1.3.4"
               }
             }
+          },
+          {
+            "id": "e1b56e209e4c21e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -101,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "做决定",
+                "query": "倾诉",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-灵修与读经/2022-08-01.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-灵修与读经/2022-08-01.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -198,7 +208,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2fe9c3a465ab1a8a",
+  "active": "be443373af8ba7cc",
   "lastOpenFiles": [
     "04 - 事业发展/3） - 团队合作与职场/1315 - 贵人 - 怎么和贵人(大领导)相处？.md",
     "01 - 个人成长/1） - 君子立心/0144 - 不可论断人 - 该如何对待习惯性论断（judge）他人的人？.md",
