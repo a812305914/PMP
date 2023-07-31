@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 301.5
   },
   "right": {
     "id": "c1d15211549f5edf",
@@ -165,7 +165,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "3b15d56f2883b77c",
+  "active": "0752b695aae77cb0",
   "lastOpenFiles": [
     "未命名.canvas",
     "34-Axcure/实用技巧.md",
