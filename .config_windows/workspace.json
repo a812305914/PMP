@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ce5ed2a25713be8a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0752b695aae77cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - 个人成长/3） - 人生管理/1998 - 浪费生命 -  “摆就摆（玩就玩），我没有浪费生命，做自己喜欢的事而已”该如何反驳如上的观点呢？.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "a5fd1fc8676e28a8",
         "type": "tabs",
         "children": [
@@ -68,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "浪费生命有三个定义。",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,8 +145,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0752b695aae77cb0",
+  "active": "55637f72e2948856",
   "lastOpenFiles": [
+    "未命名 4.canvas",
+    "01 - 个人成长/3） - 人生管理/1998 - 浪费生命 -  “摆就摆（玩就玩），我没有浪费生命，做自己喜欢的事而已”该如何反驳如上的观点呢？.md",
     "未命名.canvas",
     "34-Axcure/实用技巧.md",
     "25-复盘反思/随想.md",
@@ -195,7 +177,6 @@
     "21-个人学习吸收/如何才能做到不在乎.md",
     "21-个人学习吸收/反思.md",
     "20-服侍/对于离开的同工.md",
-    "20-服侍/2022-8-21 思考.md",
     "35-教程",
     "34-Axcure"
   ]
